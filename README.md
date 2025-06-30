@@ -1,3 +1,14 @@
+```
+ .ooooo.         .o   
+d88'   `8.     .d88   
+Y88..  .8'   .d'888   
+ `88888b.  .d'  888   
+.8'  ``88b 88ooo888oo 
+`8.   .88P      888   
+ `boood8'      o888o  
+                      
+```
+
 # 84 - A Retro Markdown Editor
 
 84 is a lightweight, terminal-based Markdown editor with a 1980s-inspired interface, designed for simplicity and integration with the nbgo note-taking system. It provides a distraction-free editing experience with function key navigation and Markdown-specific shortcuts, perfect for quick note and bookmark editing.
